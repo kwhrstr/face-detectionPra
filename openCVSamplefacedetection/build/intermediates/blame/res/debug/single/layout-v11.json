@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

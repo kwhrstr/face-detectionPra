@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/incremental-classes/arm7/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20e35322d860cc91a0685534fe65f0784dfdf752">
+        <dex dex="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run-bootstrap_9ff8de76fa74b7af42b48d1828f8e8cd78b7fed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1ab89aba6789912907f1ea8c3f38db061b39d67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9588e929ef2c530d8a42e7758358a038a487896c">
+        <dex dex="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e92b950cbe2b81043e73c507d5f5db86df44fe07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/incremental-runtime-classes/arm7/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run_6c131582818d0605fabd4480886693417ac2e5ed/classes.dex" />
+    </item>
+
+</items>

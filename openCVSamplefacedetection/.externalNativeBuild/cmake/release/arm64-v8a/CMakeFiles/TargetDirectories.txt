@@ -1,0 +1,3 @@
+/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/DetectionBasedTracker_jni.dir

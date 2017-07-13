@@ -1,0 +1,7 @@
+#Thu Jul 13 21:12:28 JST 2017
+base.0=/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1ab89aba6789912907f1ea8c3f38db061b39d67
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e92b950cbe2b81043e73c507d5f5db86df44fe07/classes.dex
+base.1=/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e92b950cbe2b81043e73c507d5f5db86df44fe07
+file.0=/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1ab89aba6789912907f1ea8c3f38db061b39d67/classes.dex

@@ -1,0 +1,4 @@
+# ninja log v5
+0	42	0	build.ninja	de95668fbbcd77a8
+1	796	0	CMakeFiles/DetectionBasedTracker_jni.dir/src/main/cpp/DetectionBasedTracker_jni.cpp.o	9cc79d29b1a903de
+796	926	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libDetectionBasedTracker_jni.so	ad99c722758d5559

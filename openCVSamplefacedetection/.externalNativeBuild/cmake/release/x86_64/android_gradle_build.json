@@ -1,0 +1,49 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/kawarashotaro/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/.externalNativeBuild/cmake/release/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"DetectionBasedTracker_jni-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "DetectionBasedTracker_jni",
+			"buildCommand" : "/Users/kawarashotaro/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/.externalNativeBuild/cmake/release/x86_64 --target DetectionBasedTracker_jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/Users/kawarashotaro/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/kawarashotaro/Library/Android/sdk/ndk-bundle/sysroot  -DDetectionBasedTracker_jni_EXPORTS -I../../../../src/main/jniLibs/include -isystem /Users/kawarashotaro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/kawarashotaro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem /Users/kawarashotaro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/kawarashotaro/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/cpp/DetectionBasedTracker_jni.cpp",
+					"workingDirectory" : "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/build/intermediates/cmake/release/obj/x86_64/libDetectionBasedTracker_jni.so",
+			"toolchain" : "8808855915869222057"
+		},
+		"lib_opencv-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "lib_opencv",
+			"buildType" : "release",
+			"output" : "/Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/jniLibs/x86_64/libopencv_java3.so",
+			"toolchain" : "8808855915869222057"
+		}
+	},
+	"toolchains" : 
+	{
+		"8808855915869222057" : 
+		{
+			"cCompilerExecutable" : "/Users/kawarashotaro/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/kawarashotaro/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

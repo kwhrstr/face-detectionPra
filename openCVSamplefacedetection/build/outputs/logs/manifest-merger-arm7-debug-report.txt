@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:3:11-50
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:5:11-37
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:4:11-36
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/bad29e70e213f9c40601903fca67e1e77fb5b395/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/6eba61e0efd5ab3c5b9f01917fb3ca8ebf8aa499/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/8d9a797cab358675a6da595b1feb05c28edde85d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/fb52bfeadf5ca98b7f42040c4af88195825df62e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/eca72ece279fac27e8c61206fee9882c071477ca/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/1340aa3bb75162198e3f4dc29a7fea06f3c986ab/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/3981da391b7ec0becb5e0259d335c7bb4fe1f764/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/ac97db6756db74ecb9a7dd445b508d7ba9ae102a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kawarashotaro/.android/build-cache/280075417d793f0b592b80513041a6e2efb1ca6e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:10:9-67
+activity#org.opencv.samples.facedetect.FdActivity
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:14:19-56
+	android:label
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:13:19-51
+	android:configChanges
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:15:19-69
+	android:name
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:12:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:18:27-74
+supports-screens
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:23:5-27:51
+	android:largeScreens
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:26:23-50
+	android:smallScreens
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:24:23-50
+	android:normalScreens
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:25:23-51
+	android:resizeable
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:23:23-48
+	android:anyDensity
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:27:23-48
+uses-sdk
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:29:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/bad29e70e213f9c40601903fca67e1e77fb5b395/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/6eba61e0efd5ab3c5b9f01917fb3ca8ebf8aa499/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/8d9a797cab358675a6da595b1feb05c28edde85d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/fb52bfeadf5ca98b7f42040c4af88195825df62e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/eca72ece279fac27e8c61206fee9882c071477ca/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/1340aa3bb75162198e3f4dc29a7fea06f3c986ab/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/3981da391b7ec0becb5e0259d335c7bb4fe1f764/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/ac97db6756db74ecb9a7dd445b508d7ba9ae102a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kawarashotaro/.android/build-cache/280075417d793f0b592b80513041a6e2efb1ca6e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [face-detectionPra:openCVLibrary320:unspecified] /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVLibrary320/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:29:15-41
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:31:5-64
+	android:name
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:31:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:33:5-90
+	android:required
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:33:64-88
+	android:name
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:33:19-63
+uses-permission-sdk-23
+ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:34:5-87
+	android:name
+		ADDED from /Users/kawarashotaro/AndroidStudioProjects/face-detectionPra/openCVSamplefacedetection/src/main/AndroidManifest.xml:34:29-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/bad29e70e213f9c40601903fca67e1e77fb5b395/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/6eba61e0efd5ab3c5b9f01917fb3ca8ebf8aa499/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/8d9a797cab358675a6da595b1feb05c28edde85d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/fb52bfeadf5ca98b7f42040c4af88195825df62e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/eca72ece279fac27e8c61206fee9882c071477ca/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/1340aa3bb75162198e3f4dc29a7fea06f3c986ab/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/3981da391b7ec0becb5e0259d335c7bb4fe1f764/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/ac97db6756db74ecb9a7dd445b508d7ba9ae102a/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kawarashotaro/.android/build-cache/a30f3c04a7fd7e449c65bf62c6aa4b6cacafa239/output/AndroidManifest.xml:26:9-47
